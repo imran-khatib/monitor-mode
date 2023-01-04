@@ -1,8 +1,11 @@
 # monitor-mode
 
+Installation:
+
+git clone https://github.com/imran-khatib/monitor-mode.git
 cd  monitor-mode
 chmod +x monitor-mode.sh
-./monitor-mode.sh <interface>
 
-usage: ./monitor-mode.sh wlan0
+usage: 
+./monitor-mode.sh wlan0
 
